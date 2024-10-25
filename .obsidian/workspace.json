@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/GitLab/GitLab CI.md",
-                "mode": "preview",
+                "file": "content/index.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitLab CI"
+              "title": "index"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:yaml",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,6 +163,10 @@
   },
   "active": "f6374ec21430093f",
   "lastOpenFiles": [
+    "content/index.md",
+    "content/GitLab/GitLab CI.md",
+    "content/GitLab",
+    "content",
     "node_modules/resolve/example/sync.js",
     "node_modules/resolve/example/async.js",
     "node_modules/resolve/example",
@@ -172,10 +175,7 @@
     "node_modules/remark-gfm/lib",
     "node_modules/remark-frontmatter/lib/index.js",
     "node_modules/remark-frontmatter/lib/index.d.ts",
-    "node_modules/remark-frontmatter/lib",
     "node_modules/mathjax-full/README.md",
-    "node_modules/mathjax-full/tslint.json",
-    "node_modules/mathjax-full/tsconfig.json",
     "node_modules/pixi.js/README.md",
     "node_modules/rxjs/CHANGELOG.md",
     "node_modules/rxjs/CODE_OF_CONDUCT.md",
@@ -199,7 +199,6 @@
     "node_modules/@citation-js/core/LICENSE.md",
     "node_modules/@citation-js/core/README.md",
     "node_modules/rimraf/README.md",
-    "node_modules/parse5/README.md",
     "node_modules/psl/browserstack-logo.svg",
     "node_modules/cli-spinner/img/spinner.gif"
   ]

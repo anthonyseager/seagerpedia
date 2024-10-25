@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/seagerpedia.md",
+                "file": "content/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/seagerpedia.md",
+                "file": "content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/seagerpedia.md",
+                "file": "content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/seagerpedia.md"
+                "file": "content/index.md"
               }
             }
           }
@@ -146,17 +146,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6374ec21430093f",
+  "active": "9e28c5c34f5a9a61",
   "lastOpenFiles": [
-    "content/Untitled",
-    "content/seagerpedia.md",
+    "content/index.md",
+    "content/index.md",
     "content/gitlab-ci/GitLab CI - YAML Fun.md",
+    "content/gitlab-ci",
+    "content",
+    "content/Untitled",
     "README.md",
     "templates/TItle.md",
     "templates",
     "test.sh",
-    "content/gitlab-ci",
-    "content",
     "CODE_OF_CONDUCT.md",
     "node_modules/get-caller-file/LICENSE.md"
   ]

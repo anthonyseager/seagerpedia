@@ -11,12 +11,17 @@
             "id": "f6374ec21430093f",
             "type": "leaf",
             "state": {
+<<<<<<< Updated upstream
               "type": "markdown",
               "state": {
                 "file": "content/index.md",
                 "mode": "source",
                 "source": false
               }
+=======
+              "type": "graph",
+              "state": {}
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -85,7 +90,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "content/index.md",
+=======
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "content/index.md",
+=======
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +135,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {
                 "file": "content/index.md"
               }
+=======
+              "state": {}
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -148,8 +163,13 @@
   },
   "active": "9e28c5c34f5a9a61",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "content/index.md",
     "content/index.md",
+=======
+    "content/seagerpedia.md",
+    "content/Untitled",
+>>>>>>> Stashed changes
     "content/gitlab-ci/GitLab CI - YAML Fun.md",
     "content/gitlab-ci",
     "content",

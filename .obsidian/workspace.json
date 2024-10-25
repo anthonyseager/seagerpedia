@@ -11,17 +11,12 @@
             "id": "f6374ec21430093f",
             "type": "leaf",
             "state": {
-<<<<<<< Updated upstream
               "type": "markdown",
               "state": {
-                "file": "content/index.md",
+                "file": "content/seagerpedia.md",
                 "mode": "source",
                 "source": false
               }
-=======
-              "type": "graph",
-              "state": {}
->>>>>>> Stashed changes
             }
           }
         ]
@@ -90,10 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "content/index.md",
-=======
->>>>>>> Stashed changes
+                "file": "content/seagerpedia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,10 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "content/index.md",
-=======
->>>>>>> Stashed changes
+                "file": "content/seagerpedia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,13 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< Updated upstream
               "state": {
-                "file": "content/index.md"
+                "file": "content/seagerpedia.md"
               }
-=======
-              "state": {}
->>>>>>> Stashed changes
             }
           }
         ]
@@ -161,18 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9e28c5c34f5a9a61",
+  "active": "f6374ec21430093f",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "content/index.md",
-    "content/index.md",
-=======
     "content/seagerpedia.md",
-    "content/Untitled",
->>>>>>> Stashed changes
+    "content",
     "content/gitlab-ci/GitLab CI - YAML Fun.md",
     "content/gitlab-ci",
-    "content",
     "content/Untitled",
     "README.md",
     "templates/TItle.md",

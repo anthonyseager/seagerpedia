@@ -1,11 +1,11 @@
 ---
 title: GitLab CI
 tags:
-  - "#yaml"
   - bash
   - ci/cd
   - gitlab
   - grep
+  - yaml
 ---
 
 ## `grep` and capturing exit status in CI scripts

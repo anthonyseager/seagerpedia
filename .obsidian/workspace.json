@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ci/cd",
+                "query": "tag:yaml",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -163,26 +164,43 @@
   },
   "active": "f6374ec21430093f",
   "lastOpenFiles": [
-    "node_modules/tough-cookie/LICENSE",
-    "node_modules/tsx/dist/client-D6NvIMSC.cjs",
-    "node_modules/tsx/dist/get-pipe-path-BoR10qr8.cjs",
-    "node_modules/tsx/dist/cli.cjs",
-    "node_modules/tsx/dist",
-    "node_modules/tr46/lib/mappingTable.json",
-    "node_modules/tr46/lib/statusMapping.js",
-    "node_modules/tr46/lib/regexes.js",
-    "node_modules/tr46/lib",
-    "node_modules/tsx/LICENSE",
-    "node_modules/tr46/index.js",
-    "node_modules/@clack/prompts/node_modules/is-unicode-supported/readme.md",
-    "node_modules/@clack/prompts/README.md",
-    "node_modules/@clack/prompts/CHANGELOG.md",
-    "content/seagerpedia.md",
-    "content/GitLab/GitLab CI.md",
-    "README.md",
-    "content/gitlab-ci/GitLab CI - YAML Fun.md",
-    "templates/TItle.md",
-    "CODE_OF_CONDUCT.md",
-    "node_modules/get-caller-file/LICENSE.md"
+    "node_modules/resolve/example/sync.js",
+    "node_modules/resolve/example/async.js",
+    "node_modules/resolve/example",
+    "node_modules/remark-gfm/lib/index.js",
+    "node_modules/remark-gfm/lib/index.d.ts",
+    "node_modules/remark-gfm/lib",
+    "node_modules/remark-frontmatter/lib/index.js",
+    "node_modules/remark-frontmatter/lib/index.d.ts",
+    "node_modules/remark-frontmatter/lib",
+    "node_modules/mathjax-full/README.md",
+    "node_modules/mathjax-full/tslint.json",
+    "node_modules/mathjax-full/tsconfig.json",
+    "node_modules/pixi.js/README.md",
+    "node_modules/rxjs/CHANGELOG.md",
+    "node_modules/rxjs/CODE_OF_CONDUCT.md",
+    "node_modules/typescript/SECURITY.md",
+    "node_modules/typescript/README.md",
+    "node_modules/jsdom/README.md",
+    "node_modules/colorjs.io/README.md",
+    "node_modules/tsx/node_modules/@esbuild/linux-x64/README.md",
+    "node_modules/speech-rule-engine/README.md",
+    "node_modules/rehype-citation/README.md",
+    "node_modules/css-tree/README.md",
+    "node_modules/flexsearch/README.md",
+    "node_modules/flexsearch/CHANGELOG.md",
+    "node_modules/katex/README.md",
+    "node_modules/sass-embedded-linux-musl-x64/README.md",
+    "node_modules/@bufbuild/protobuf/README.md",
+    "node_modules/sass-embedded/README.md",
+    "node_modules/prettier/README.md",
+    "node_modules/speech-rule-engine/lib/README.md",
+    "node_modules/resolve/SECURITY.md",
+    "node_modules/@citation-js/core/LICENSE.md",
+    "node_modules/@citation-js/core/README.md",
+    "node_modules/rimraf/README.md",
+    "node_modules/parse5/README.md",
+    "node_modules/psl/browserstack-logo.svg",
+    "node_modules/cli-spinner/img/spinner.gif"
   ]
 }

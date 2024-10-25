@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/seagerpedia.md",
+                "file": "content/GitLab/GitLab CI.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/seagerpedia.md",
+                "file": "content/GitLab/GitLab CI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/seagerpedia.md",
+                "file": "content/GitLab/GitLab CI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/seagerpedia.md"
+                "file": "content/GitLab/GitLab CI.md"
               }
             }
           }
@@ -149,10 +149,11 @@
   "active": "f6374ec21430093f",
   "lastOpenFiles": [
     "content/seagerpedia.md",
+    "content/GitLab/GitLab CI.md",
+    "content/GitLab",
     "content",
     "content/gitlab-ci/GitLab CI - YAML Fun.md",
     "content/gitlab-ci",
-    "content/Untitled",
     "README.md",
     "templates/TItle.md",
     "templates",
